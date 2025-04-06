@@ -1,0 +1,9 @@
+[package]
+name = "rust_mp3_player"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rodio = "0.17"
+walkdir = "2.4"
+eframe = "0.24"
